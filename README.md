@@ -1,7 +1,7 @@
 # assignment3
 The program will first ask which option (1, 2, or 3) the user wants to choose (front to rear, vector linear search, or Insertion Sort Queue). 
 
-If the user chooses 1, the program will randomly initalize 10 elements where it will move the front (4) to the rear (moves 1 forward)
+If the user chooses 1, the program will randomly initalize 10 elements where it will move the front (1) to the rear (moves 4 forward)
 <img width="266" alt="image" src="https://github.com/user-attachments/assets/8aca595b-0b65-4c85-aef1-020f40c8bc0c">
 
 If the user chooses 2, the program will first ask which number they would want to search. If it is available, it will print the position where it was last found. Otherwise, it will notify that their target number has not been found.
