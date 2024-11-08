@@ -149,7 +149,7 @@ private:
         bool insertionNeeded = false;
 
         std::vector<Item_Type> num; 
-        while (empty()) {
+        while (!empty()) {
             num.push_back(front()); 
             pop();
         }
