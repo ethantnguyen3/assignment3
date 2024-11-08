@@ -11,3 +11,5 @@ If the user chooses 2, the program will first ask which number they would want t
 If the user chooses 3, the program will randomly initalize 10 elements and sort the numbers in ascending order.
 <img width="273" alt="image" src="https://github.com/user-attachments/assets/ca7fd41c-50fc-4fbf-9562-897b099acb6e">
 
+If the user chooses another option, the program will generate an error message to try again. 
+<img width="151" alt="image" src="https://github.com/user-attachments/assets/4036dbe0-b455-4abe-bc31-05d4233f37dc">
